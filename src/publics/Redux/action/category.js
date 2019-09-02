@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-let url = `http://192.168.6.191:3999`
+let url = `https://note-appslah.herokuapp.com`
 
 
 export const getAllCategory = () => {
